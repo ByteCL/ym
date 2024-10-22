@@ -1,7 +1,7 @@
 /*
 甬派1.0
 
-变量名ypck = userId=xxxxxxx,model=xxxxx,deviceid=xxxx
+变量名ypck  userId=xxxxxxx,model=xxxxx,deviceid=xxxx
 多号用@隔开：userId=xxxxxxx,model=xxxxx,deviceid=xxxx@userId=xxxxxxx,model=xxxxx,deviceid=xxxx
 model 认证型号值参考：
 1. 华为 P40 Pro (ELE-AN00)
